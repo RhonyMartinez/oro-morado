@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bowl Selva Viva",
+    "description": "Deliciosa mezcla de nuestras bases con Banano, mango, leche en polvo y granola.",
+    "image": "assets/img/productos/bowlSelvaViva.jpg"
+  },
+  {
+    "name": "Bowl Tropical",
+    "description": "Combina tu base con piña, mango, granola y fresa.",
+    "image": "assets/img/productos/bowlTropical.jpg"
+  },
+  {
+    "name": "Bowl Antioxidante",
+    "description": "Todos los beneficios antioxidantes de nuestras bases, fresas, arándanos, cerezas, kiwi y milo.",
+    "image": "assets/img/productos/bowlAntioxidante.jpg"
+  },
+  {
+    "name": "Parfait: Encanto Tropical",
+    "description": "Perfecta combinación de base de açaí, piña, mango, base de arazá, durazno y milo.",
+    "image": "assets/img/productos/encantoTropical.jpg"
+  },
+  {
+    "name": "Parfait: Asaí Fit",
+    "description": "Producto saludabe con base de açaí, fresa, kiwi y granola.",
+    "image": "assets/img/productos/acaiFit.jpg"
+  },
+  {
+    "name": "Parfait: Powerfull",
+    "description": "Con todos los beneficios del açaí, banano, leche en polvo y granola.",
+    "image": "assets/img/productos/powerfull.jpg"
+  },
+  {
+    "name": "Smoothie",
+    "description": "Prueba un delicioso y refrescante smoothie de frutos rojos o de banano.",
+    "image": "assets/img/productos/smoothies.jpg"
+  },
+  {
+    "name": "Pulpa de Açaí",
+    "description": "Pulpa congelada 100% natural por porciones (semanario), kilo o libra.",
+    "image": "assets/img/productos/semanario.jpg"
+  },
+  {
+    "name": "Vino de Açaí",
+    "description": "Botella de vino de 750ml o 275ml, ideal para compartir con tus amigos.",
+    "image": "assets/img/productos/pulpaLibra.jpg"
+  },
+  {
+    "name": "Açaí liofilizado: 100g",
+    "description": "Todos los beneficios del açaí en polvo.",
+    "image": "assets/img/productos/pulpaLibra.jpg"
+  },
+  {
+    "name": "Bases",
+    "description": "Pruébalas en nuestro dos sabores, açaí y arazá, y en tres presentaciones diferentes.",
+    "image": "assets/img/productos/pulpaLibra.jpg"
+  },
+  {
+    "name": "Toppings",
+    "description": "Adiciona perfectos y saludables complementos a tus bases.",
+    "image": "assets/img/productos/pulpaLibra.jpg"
+  }
+]
